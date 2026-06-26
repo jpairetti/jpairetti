@@ -1,7 +1,3 @@
-
-## Hi there 👋
-
-<!--
 # Hi, I'm Joaquín 👋
 
 CS student at FAMAF (Universidad Nacional de Córdoba), specializing in systems 
