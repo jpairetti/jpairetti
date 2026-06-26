@@ -1,11 +1,11 @@
-# Hi, I'm Joaquín 👋
+# Hi, I'm Joaquín
 
 CS student at FAMAF (Universidad Nacional de Córdoba), specializing in systems 
 and distributed systems. This portfolio spans projects from kernel-level 
 concurrency to network protocol design and REST APIs — most developed as group 
 coursework, with my individual contribution documented in each repo's README.
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### Operating Systems
 - **[MyBash](https://github.com/jpairetti/mybash-shell-c)** — Unix shell implementation in C, with pipes, I/O redirection, and background execution. Includes a demo video.
@@ -19,8 +19,8 @@ coursework, with my individual contribution documented in each repo's README.
 - **[TCP Congestion Control Simulation](https://github.com/jpairetti/tcp-congestion-control-sim)** — OMNeT++ simulation of flow vs. congestion control, implementing a TCP-inspired sliding window algorithm (rwnd/cwnd, AIMD).
 - **[Shortest-Path Routing for Ring Networks](https://github.com/jpairetti/shortest-path-routing-omnet)** ⭐ — Custom routing algorithm with dynamic neighbor discovery (HELLO packets), ~87% latency improvement over the baseline. Includes a full research paper and poster.
 
-## 🛠 Tech Stack
+## Tech Stack
 C · Python · C++ · Scala · ARM Assembly · Flask · OMNeT++ · FUSE · OpenAPI
 
-## 📫 Contact
+## Contact
 pairettijoaquin@gmail.com
